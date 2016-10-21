@@ -1,3 +1,3 @@
-library c2dart;
+library lisp2dart;
 
 export 'src/text/text.dart';
