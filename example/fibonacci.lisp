@@ -1,6 +1,7 @@
-(defun fibonacci (n &optional (a 0) (b 1) (acc ()))
-  (if (zerop n)
-      (nreverse acc)
-      (fibonacci (1- n) b (+ a b) (cons a acc))))
+(defun fibonacci(n)
+  (cond
+    ((eq n 1) 0)
+    ((eq n 2) 1)
+    ((+ (fibonacci (- n 1)) (fibonacci (- n 2))))))))
 
 (print fibonacci 3)
