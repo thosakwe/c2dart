@@ -1,8 +1,8 @@
-name: c2dart
-description: Experimenting, trying to compile C to Dart Kernel
+name: lisp2dart
+description: Experimenting, trying to compile Lisp to Dart Kernel
 version: 0.1.0-dev
 author: Tobe O <thosakwe@gmail.com>
-homepage: https://github.com/thosakwe/c2dart
+homepage: https://github.com/thosakwe/lisp2dart
 environment:
   sdk: ">=1.8.0"
 dependencies:
