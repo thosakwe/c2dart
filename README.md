@@ -1,2 +1,2 @@
-# c2dart
-Experimenting, trying to compile C to Dart Kernel
+# lisp2dart
+Experimenting, trying to compile Lisp to Dart syntax
