@@ -1,5 +1,5 @@
 name: lisp2dart
-description: Experimenting, trying to compile Lisp to Dart Kernel
+description: Experimenting, trying to compile Lisp to Dart VM
 version: 0.1.0-dev
 author: Tobe O <thosakwe@gmail.com>
 homepage: https://github.com/thosakwe/lisp2dart
